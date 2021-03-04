@@ -102,7 +102,8 @@ alias zshconfig="vim ~/.zshrc"
 alias vimconfig="vim ~/.vimrc"
 alias cdhome="cd ~"
 alias cddocs="cd ~/Documents"
-alias sourceconf="source ~/.zshrc"
+alias sourcezsh="source ~/.zshrc"
+alias cdspaces="cd ~/Documents/Wizeline/workspaces"
 
 ###########################################
 ########         Pyenv conf        ########
